@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">CinemaTicketBooking</string>
+    <string name="title_movie_list">movie</string>
+    <string name="title_movie_detail">movie Detail</string>
+    <string-array name="cities">
+        <item>Riyadh</item>
+        <item>Dammam</item>
+        <item>Jeddah</item>
+
+    </string-array>
+</resources>
